@@ -1,4 +1,4 @@
-package jmdict-go
+package jmdict
 
 import (
 	"encoding/xml"
