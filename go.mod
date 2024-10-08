@@ -1,3 +1,3 @@
-module github.com/themoeway/jmdict-go
+module github.com/yomidevs/jmdict-go
 
 go 1.18
